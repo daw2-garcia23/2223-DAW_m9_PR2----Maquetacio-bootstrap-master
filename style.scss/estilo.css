@@ -1,0 +1,29 @@
+/*# sourceMappingURL=estilo.css.map */
+#lila{
+    color:#5E3BEE ;
+}
+
+#margen-menos{
+    margin-top: -15%;
+    padding-bottom: 15%;
+}
+#bajar-principio{
+    padding-top: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#bajar-about{
+    padding-top: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+i{
+    color:#006B6A;
+}
+form{
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+ }
